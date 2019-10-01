@@ -1,0 +1,23 @@
+INSERT INTO users
+    (id, name, age)
+VALUES
+    (1, 'alex', 21),
+    (2, 'sophie', 22),
+    (3, 'patrick', 33),
+    (4, 'suzy', 25),
+    (5, 'izy', 44),
+    (6, 'root', 40),
+    (7, 'selim', 28),
+    (8, 'melissa', 32),
+    (9, 'cool-g', 50),
+    (10, 'mai', 33),
+    (11, 'nadege', 37),
+    (12, 'christy', 60),
+    (13, 'christ', 70),
+    (14, 'moun', 56),
+    (15, 'shawn', 44),
+    (16, 'billy', 55),
+    (17, 'mohamed', 24),
+    (18, 'doul', 46),
+    (19, 'emma', 29),
+    (20, 'assan', 37);
